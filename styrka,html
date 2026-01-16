@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<title>Styrka & Rörlighet</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <h1>💪 Träning & Hälsa</h1>
+  <ul>
+    <li><a href="index.html">Hem</a></li>
+    <li><a href="kondition.html">Kondition</a></li>
+    <li><a href="styrka.html">Styrka & Rörlighet</a></li>
+  </ul>
+</nav>
+
+<section class="content">
+  <h2>🏋️ Styrka & Rörlighet</h2>
+  <img src="https://images.unsplash.com/photo-1599058917212-d750089bc07b">
+
+  <p>
+    Styrketräning bygger muskler och stärker leder och skelett.
+    Rörlighetsträning som yoga och stretching minskar risken för skador.
+  </p>
+
+  <ul>
+    <li>💪 Starkare muskler</li>
+    <li>🦴 Ökad bentäthet</li>
+    <li>🧘 Bättre rörlighet</li>
+    <li>⚖️ Bättre hållning</li>
+  </ul>
+</section>
+
+<footer>
+  © 2026 Träning & Hälsa
+</footer>
+
+</body>
+</html>
